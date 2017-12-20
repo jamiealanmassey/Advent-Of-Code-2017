@@ -3,12 +3,13 @@
 #include <vector>
 #include <string>
 #include <algorithm>
+#include <climits>
 #include <stdlib.h>
 
 using namespace std;
 
-int lowestNum = 9999999;
-int highestNum = 0;
+int lowestNum = INT_MAX;
+int highestNum = INT_MIN;
 int totalSum = 0;
 int currentNum = 0;
 

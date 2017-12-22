@@ -5,7 +5,7 @@ All solutions are written in C++ and require a compiler (such as GCC), and as su
 [x] day 2  
 [/] day 3  
 [x] day 4  
-[ ] day 5  
+[x] day 5  
 [ ] day 6  
 [ ] day 7  
 [ ] day 8  
